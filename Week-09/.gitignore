@@ -1,0 +1,6 @@
+# Ignore this folder
+img2fmri/*
+logs/*
+
+# Keep this folder
+!logs/.gitkeep
